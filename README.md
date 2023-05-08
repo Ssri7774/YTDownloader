@@ -3,7 +3,7 @@ Audio and Video downloader from YouTube
 
 Instrudtions:
 To Download YouTube Videos:
-- Download & Install Python3 (Can be dowloaded from Microsoftstore)
+- Download & Install Python3 (Can be dowloaded from Microsoft Store |or| https://www.python.org/downloads/)
 - Install PyTube module with the command "pip install pytube"
 - And add the PATH location to Environment Variables. To add the directory to the PATH variable, you can follow these steps:
    -> Open File Explorer and navigate to the directory where pytube is installed, Example: 'C:\Users\Username\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\Scripts'
